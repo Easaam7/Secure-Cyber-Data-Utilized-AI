@@ -7,6 +7,9 @@
 cybersecurity investigation tool used to detect the suspicious mails and prevent dealing with them utilized the AI technology
 in order to make the investigation process easier and faster than manual investigation
 
+## : 🌐Web site
+https://mailx.pythonanywhere.com/
+
 
 
 
