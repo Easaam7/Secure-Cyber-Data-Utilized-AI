@@ -1,7 +1,7 @@
 <h1 align="center">Mailx</h1>
 
 <div align= "center"><img src="https://github.com/Easaam7/Secure-Cyber-Data-Utilized-AI/blob/main/img/cover.png" width="1356" height="628"/>
-
+</div>
 
 ## :innocent: Motivation
 cybersecurity investigation tool used to detect the suspicious mails and prevent dealing with them utilized the AI technology
