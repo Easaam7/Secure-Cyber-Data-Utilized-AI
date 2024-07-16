@@ -6,12 +6,17 @@ in order to make the investigation process easier and faster than manual investi
 
 
 ## :warning: Python Libraries used
-- ➡️ pandas       &nbsp;&nbsp; &nbsp;➡️argparse
-- ➡️ numpy        &nbsp;&nbsp; &nbsp;➡️joblib
-- ➡️ matplotlib    &nbsp;&nbsp; &nbsp;➡️argparse
-- ➡️ sklearn       &nbsp;&nbsp; &nbsp;➡️requests
-- ➡️ email        &nbsp;&nbsp; &nbsp;➡️re
-- ➡️ csv          &nbsp;&nbsp;
+- ➡️ pandas      
+- ➡️ numpy        
+- ➡️ matplotlib    
+- ➡️ sklearn       
+- ➡️ email       
+- ➡️ csv
+- ➡️re
+- ➡️argparse 
+- ➡️joblib
+- ➡️argparse
+- ➡️requests
                
 
 ## :star: Features
