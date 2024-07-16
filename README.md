@@ -6,13 +6,13 @@ in order to make the investigation process easier and faster than manual investi
 
 
 ## :warning: Python Libraries used
-➡️ pandas     &nbsp;          ➡️argparse
-➡️ numpy      &nbsp;          ➡️requests
-➡️ seaborn    &nbsp;          ➡️joblib
-➡️ matplotlib &nbsp;          ➡️argparse
-➡️ sklearn    &nbsp;          ➡️requests
-➡️ email      &nbsp;          ➡️re
-➡️ csv        &nbsp;
+- ➡️ pandas     &nbsp;          ➡️argparse
+- ➡️ numpy      &nbsp;          ➡️requests
+- ➡️ seaborn    &nbsp;          ➡️joblib
+- ➡️ matplotlib &nbsp;          ➡️argparse
+- ➡️ sklearn    &nbsp;          ➡️requests
+- ➡️ email      &nbsp;          ➡️re
+- ➡️ csv        &nbsp;
                
 
 ## :star: Features
