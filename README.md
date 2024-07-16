@@ -1,8 +1,14 @@
 <h1 align="center">Mailx</h1>
 
+<div align= "center"><img src="https://github.com/Easaam7/Secure-Cyber-Data-Utilized-AI/blob/main/img/asem.jpg" width="200" height="200"/>
+  <h4>By putting a camera in the exam room and by using computer vision first we make  students attendance process by face recognition and then when the exam start the system prevent students from cheating by some rules like calculating the distance between the students and see if any student turned his head and recognizing things like phones, headphones, books and other things.</h4>
+</div>
+
 ## :innocent: Motivation
 cybersecurity investigation tool used to detect the suspicious mails and prevent dealing with them utilized the AI technology
 in order to make the investigation process easier and faster than manual investigation
+
+
 
 
 ## :warning: Python Libraries used
