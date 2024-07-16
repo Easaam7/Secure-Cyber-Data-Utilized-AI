@@ -36,7 +36,7 @@ in order to make the investigation process easier and faster than manual investi
 ## Contributors
 <table>
   <tr>
-    <td align="center"><img src="https://github.com/Easaam7/Secure-Cyber-Data-Utilized-AI/blob/main/img/asem.jpg" width="200px;" height="200px;" alt=""/><br/><sub><b>Asem Elhalawany</b></sub></a><br/><p align="center">
+    <td align="center"><img src="https://github.com/Easaam7/Secure-Cyber-Data-Utilized-AI/blob/main/img/asem.jpg" width="250px;" height="250px;" alt=""/><br/><sub><b>Asem Elhalawany</b></sub></a><br/><p align="center">
       <p align="center">
         <a href="https://www.linkedin.com/in/moamen-zakaria-465543177/" alt="Linkedin">
           <img src="http://www.iconninja.com/files/863/607/751/network-linkedin-social-connection-circular-circle-media-icon.svg" width = "30">
