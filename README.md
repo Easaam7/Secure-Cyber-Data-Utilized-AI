@@ -6,19 +6,14 @@ in order to make the investigation process easier and faster than manual investi
 
 
 ## :warning: Python Libraries used
-- pandas
-- numpy
-- seaborn
-- matplotlib
-- sklearn
-- email
-- hashlib
-- argparse
-- requests
-- re
-- joblib
+- pandas             -argparse
+- numpy              -requests
+- seaborn            -joblib
+- matplotlib         -argparse
+- sklearn            -requests
+- email              -re
 - csv
-- random
+               
 
 ## :star: Features
  - ### Inspect Email content( hashtag#Mailx AI Model )
