@@ -6,11 +6,11 @@ in order to make the investigation process easier and faster than manual investi
 
 
 ## :warning: Python Libraries used
-- ➡️ pandas     &nbsp;&nbsp;➡️argparse
-- ➡️ numpy      &nbsp;&nbsp;➡️joblib
-- ➡️ matplotlib &nbsp;&nbsp;➡️argparse
-- ➡️ sklearn    &nbsp;&nbsp;➡️requests
-- ➡️ email      &nbsp;&nbsp;➡️re
+- ➡️ pandas     &nbsp;&nbsp; &nbsp;➡️argparse
+- ➡️ numpy      &nbsp;&nbsp; &nbsp;➡️joblib
+- ➡️ matplotlib &nbsp;&nbsp; &nbsp;➡️argparse
+- ➡️ sklearn    &nbsp;&nbsp; &nbsp;➡️requests
+- ➡️ email      &nbsp;&nbsp; &nbsp;➡️re
 - ➡️ csv        &nbsp;&nbsp;
                
 
